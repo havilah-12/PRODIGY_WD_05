@@ -7,6 +7,7 @@ ReactJs, API , NodeJs (modules)
 ## Description
 Created a web page that fetches weather data from a weather API  based on the user-inputted location. 
 It Displays the current weather conditions, temperature, and other relevant information. The API which I used is free. link : https://openweathermap.org/api
+My LikendIn : https://www.linkedin.com/in/havilah12/
 
 ## Contributing
 I feel thankful and motivated for the contributions! Here are some ways you can get started:
