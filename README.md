@@ -1,5 +1,7 @@
 # PRODIGY_WD_05
-Weather App using react.js
+Weather App using React.js
+![Uploading Screenshot 2023-11-26 210458.png…]()
+
 
 ## Technologies used:
 ReactJs, API , NodeJs (modules)
