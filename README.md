@@ -1,6 +1,6 @@
 # PRODIGY_WD_05
 Weather App using React.js
-![Uploading Screenshot 2023-11-26 210458.png…]()
+![Screenshot 2023-11-26 210458](https://github.com/havilah-12/PRODIGY_WD_05/assets/142531190/3b95729c-3314-41db-9be2-78731ebd7fe8)
 
 
 ## Technologies used:
