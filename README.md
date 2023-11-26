@@ -1,6 +1,6 @@
 # PRODIGY_WD_05
 ## Weather App using React.js and REST API
-![Screenshot 2023-11-26 210458](https://github.com/havilah-12/PRODIGY_WD_05/assets/142531190/3b95729c-3314-41db-9be2-78731ebd7fe8)
+![image](https://github.com/havilah-12/PRODIGY_WD_05/assets/142531190/8bd4d012-8485-4033-8b79-f70800d10aa6)
 
 
 ## Technologies used:
